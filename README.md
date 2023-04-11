@@ -8,9 +8,7 @@ React lets you combine them into reusable and nestable _components_
 
 ## Chapter One
 
----
-
-1. **[Components](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-one)**
+1. **[Components](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-one/README.md)**
 
 Components are isolated pieces of UI and are the building blocks of any react application.
 
@@ -28,7 +26,7 @@ function AmazingBoxes() {
 
 ```
 
-2. **[Importing and Exporting Components]()**
+2. **[Importing and Exporting Components](https://github.com/isadia-brian/Learning-React/blob/main/src/Tutorial/Lesson-Two/README.md)**
 
 The Best part of a component is in its reusability.
 

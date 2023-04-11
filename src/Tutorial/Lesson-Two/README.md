@@ -2,15 +2,11 @@
 
 ## The root component file
 
----
-
 In Lesson One we made an **AmazingBoxes** component and a **Component** component😄 that renders it:
 
 We then Imported _Component_ file from the Lesson-one Folder within the Tutorial folder to the _App.jsx_ file. This file is the root component for our app and any app scaffolded with _create-react-app_ or **vite** in our case.
 
 ## Exporting and Importing a component
-
----
 
 In future we might want to change what appears on the landing page which by default is provided by the root component **App**
 
