@@ -36,6 +36,6 @@ As you nest more and more components It often makes sense to start splitting the
 
 This lets you keep your files easy to scan and reuse components in more places
 
-3. ## **[Writing Markup with JSX]()**
+3. ## **[Writing Markup with JSX](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-Three/README.md)**
 
 _JSX_ - Syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file
