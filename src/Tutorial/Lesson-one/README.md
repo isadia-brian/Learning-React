@@ -1,28 +1,31 @@
 # Components - UI Building Blocks
 
 ## How to build a component
-___
+
+---
+
 1. Export the component
-   
-   The ==export default== prefix is a standard JavaScript Syntax.
+
+   The _export default_ prefix is a standard JavaScript Syntax.
    It helps you mark the main function in a file so that you can later import it from other files
 
    ```
    export default
-   
+
    ```
 
 2. Define the function
 
-    React components are regular JavaScript functions, but **their names must be in capital letters or they wont work**
-   
+   React components are regular JavaScript functions, but **their names must be in capital letters or they wont work**
+
    ```
    function UserName(){
 
    }
-    ```
+   ```
+
 3. Add Markup
-   
+
    ```
    return (
     <div>
@@ -33,8 +36,7 @@ ___
 
 ## Using a component
 
-
-Now that you have defined your *AmazingBoxes* component, you can nest it inside other components
+Now that you have defined your _AmazingBoxes_ component, you can nest it inside other components
 
 ```
 export default function Component (){
@@ -57,16 +59,17 @@ function AmazingBoxes() {
 
 ```
 
-## Nesting and organizing components 
+## Nesting and organizing components
 
-Components are regular JavaScript functions, so you can keep multiple components in the same file. 
+Components are regular JavaScript functions, so you can keep multiple components in the same file.
 
-This is convenient when components are relatively small or tightly related to each other. 
+This is convenient when components are relatively small or tightly related to each other.
 
-If this file gets crowded, you can always move **AmazingBoxes** to a separate file. 
+If this file gets crowded, you can always move **AmazingBoxes** to a separate file.
 
-**Parent Component** - A component that renders other components(**child components**) 
-____
+**Parent Component** - A component that renders other components(**child components**)
+
+---
 
 **NB:Components can render other components, but you must never nest their definitions:**
 
@@ -95,8 +98,8 @@ export default function Component() {
 function AmazingBoxes() {
     // ...
   }
-  
+
 
 ```
 
-When a child component needs some data from a parent, ==pass it by props== instead of nesting definitions.
+When a child component needs some data from a parent, _pass it by props_ instead of nesting definitions.

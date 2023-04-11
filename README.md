@@ -10,7 +10,7 @@ React lets you combine them into reusable and nestable _components_
 
 ---
 
-1. **Components**
+1. **[Components](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-one)**
 
 Components are isolated pieces of UI and are the building blocks of any react application.
 
