@@ -8,7 +8,7 @@ React lets you combine them into reusable and nestable _components_
 
 ## Chapter One
 
-1. **[Components](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-one/README.md)**
+1. ## **[Components](https://github.com/isadia-brian/Learning-React/tree/main/src/Tutorial/Lesson-one/README.md)**
 
 Components are isolated pieces of UI and are the building blocks of any react application.
 
@@ -26,7 +26,7 @@ function AmazingBoxes() {
 
 ```
 
-2. **[Importing and Exporting Components](https://github.com/isadia-brian/Learning-React/blob/main/src/Tutorial/Lesson-Two/README.md)**
+2. ## **[Importing and Exporting Components](https://github.com/isadia-brian/Learning-React/blob/main/src/Tutorial/Lesson-Two/README.md)**
 
 The Best part of a component is in its reusability.
 
@@ -35,3 +35,7 @@ You can create components composed of other components
 As you nest more and more components It often makes sense to start splitting them into different files.
 
 This lets you keep your files easy to scan and reuse components in more places
+
+3. ## **[Writing Markup with JSX]()**
+
+_JSX_ - Syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file

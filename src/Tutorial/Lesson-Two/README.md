@@ -144,3 +144,4 @@ e.g import Banana from './Button'
 But named imports should maintain their names hence the word **named** imports
 
 **Use default exports if the file exports only one component, and use named exports if it exports multiple components and values.**
+
