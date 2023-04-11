@@ -28,4 +28,12 @@ function AmazingBoxes() {
 
 ```
 
+2. **[Importing and Exporting Components]()**
 
+The Best part of a component is in its reusability.
+
+You can create components composed of other components
+
+As you nest more and more components It often makes sense to start splitting them into different files.
+
+This lets you keep your files easy to scan and reuse components in more places
